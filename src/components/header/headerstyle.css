@@ -1,0 +1,17 @@
+.info{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color: azure;
+    font-size: 30px;
+    line-height: 1.4;
+    border: 1px solid black;
+
+
+}
+
+.img{
+    padding-left: 200px;
+}
